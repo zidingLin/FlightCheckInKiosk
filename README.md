@@ -33,6 +33,12 @@ you can doubleclick the "SmartFlightCheckInKiosk.exe" to operate it
 
 or use "cmd" and enter the directory, then run "start SmartFlightCheckInKiosk.exe" .
 
+#### 1.2.2 Open with .jar file
+
+you can doubleclick the "SmartFlightCheckInKiosk.jar" to operate it
+
+or use "cmd" and enter the directory, then run "Java -jar SmartFlightCheckInKiosk.jar". While you have to make sure your jdk version is openjdk18.0.1.
+
 ## 2. Passenger Log In
 
 ![img.png](ReadmeImg/cl.png)
