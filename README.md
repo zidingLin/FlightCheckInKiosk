@@ -15,20 +15,17 @@ The aim of this project is to develop a smart kiosks in front of its check-in de
 
 ## 1. Open
 
-
-![1653916681802](ReadmeImg/run.png)
-
 There are three ways to operate the program
 
 #### 1.1 Open with source code
 
-To open the system, open the first folder with from your IDE and find the java file 'src/main/java/group16/smartflightcheckinkiosk/APP.java' and run it.
+To open the system, open the folder with from your IDE and find the java file 'src/main/java/group16/smartflightcheckinkiosk/APP.java' and run it.
 
 ![img.png](ReadmeImg/APPshoot.png)
 
 
 #### 1.2 Open with executable file 
-<span style="color:red">You could get the executable file in our [release](https://github.com/SE-of-nobody/SmartFlightCheckInKiosk/releases ) in Github, which will help you enjoy the software without any commanline input. </span>
+<span style="color:red">You could get the executable file in our [release]() in Github, which will help you enjoy the software without any commanline input. </span>
 
 #### 1.2.1 Open with .exe file
 
@@ -36,13 +33,7 @@ you can doubleclick the "SmartFlightCheckInKiosk.exe" to operate it
 
 or use "cmd" and enter the directory, then run "start SmartFlightCheckInKiosk.exe" .
 
-#### 1.2.2 Open with .jar file
-
-you can doubleclick the "SmartFlightCheckInKiosk.jar" to operate it
-
-or use "cmd" and enter the directory, then run "Java -jar SmartFlightCheckInKiosk.jar". While you have to make sure your jdk version is openjdk18.0.1.
-
-## 2. Passenger
+## 2. Passenger Log In
 
 ![img.png](ReadmeImg/cl.png)
 
